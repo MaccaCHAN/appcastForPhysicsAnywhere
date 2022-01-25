@@ -6,7 +6,7 @@
             <title>Version 1.1.1</title>
             <description>Dark Mode added. Landscape mode for tablet modified. </description>
             <pubDate>Tue, 25 Jan 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.15.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.maccachan.physics_anywhere" sparkle:version="1.15.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
